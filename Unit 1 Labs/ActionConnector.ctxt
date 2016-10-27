@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ActionConnector()
+comment1.params=button
+comment1.target=void\ addButton(javax.swing.JButton)
+comment2.params=field
+comment2.target=void\ addTextField(javax.swing.JTextField)
+comment3.params=label
+comment3.target=void\ addLabel(javax.swing.JLabel)
+comment4.params=e
+comment4.target=void\ actionPerformed(java.awt.event.ActionEvent)
+numComments=5
