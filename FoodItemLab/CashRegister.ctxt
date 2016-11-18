@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=object\ amount
+comment0.target=void\ scanItem(FoodItem,\ int)
+comment1.params=
+comment1.target=double\ closeSale()
+comment2.params=
+comment2.target=double\ getTotalAllRegisters()
+comment3.params=
+comment3.target=boolean\ verifySales()
+numComments=4

@@ -1,0 +1,25 @@
+Description: Frozen Enchiladas     Item ID : #10001	 Price: 3.75	 Cost: 2.75	 Units in stock: 200	 Weight in ounces: 10
+Description: Green Apples          Item ID : #10002	 Price: 1.99	 Cost: 0.5	 Units in stock: 0	 Weight in ounces: 0
+Description: Organic Skim Milk     Item ID : #10003	 Price: 5.49	 Cost: 3.99	 Units in stock: 50	 Weight in ounces: 50
+Description: No Description Given  Item ID : #10004	 Price: 0.0	 Cost: 0.0	 Units in stock: 0	 Weight in ounces: 0
+
+Impossible Unit Price! Error!!
+Impossible Unit Cost! Error!!
+Negative items added to stock!  Refused!! Error!!
+Price changed by over 50%!!  Old Price: 0.0.  New Price: 0.75
+Unit cost increase!!  Old Cost: 0.0.  New Cost: 0.35
+Impossible weight! Error!!
+Sale refused!  No such thing as negative items!!
+Not enough Green Apples.  We can only sell 0 items.  0 items sold.
+Item #10001 Profit: 5.0
+Item #10002 Profit: 0.0
+Item #10003 Profit: 4.5
+Item #10004 Profit: 8.0
+Total Profit: 17.5
+
+Are any items equal to each other?
+
+Yes, No, No, No
+No, Yes, No, No
+No, No, Yes, No
+No, No, No, Yes
